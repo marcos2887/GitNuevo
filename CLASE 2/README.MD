@@ -30,3 +30,6 @@ git log -x # DONDE X ES EL NUMERO DE LOS COMMIT QUE QUEREMOS VER
 ```sh
 git log --oneline --decorate --all --graph
 ```
+
+### GIT KEEP PERMITE SEGUIR UNA CARPETA VACIA. hay que crear el archivo gitkeep
+
